@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "nombre":"Jazmin",
+        "apellido":"Ramos",
+        "nacionalidad":"Salvadoreña"
+    },
+    {
+        "id":2,
+        "nombre":"Brenda",
+        "apellido":"Madrid",
+        "nacionalidad":"Salvadoreña"
+    },
+    {
+        "id":3,
+        "nombre":"Fernando",
+        "apellido":"Rivas",
+        "nacionalidad":"Guatemalteca"
+    },
+    {
+        "id":4,
+        "nombre":"Maricela",
+        "apellido":"Palma",
+        "nacionalidad":"Hondureña"
+    }
+]
